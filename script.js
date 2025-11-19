@@ -1,4 +1,4 @@
-const API_KEY = 'af2a7964d06c4345966185141251511';
+const API_KEY = MY_API_KEY;
 const API_URL = 'https://api.weatherapi.com/v1';
 // WEATHER ICONS MAP
 const weatherIcons = {'Sunny':'wi-day-sunny','Clear':'wi-night-clear','Partly cloudy':'wi-day-cloudy','Cloudy':'wi-cloudy','Overcast':'wi-cloudy',
